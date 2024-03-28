@@ -1,6 +1,6 @@
 ---
 title: Vue Again
-date: 2024-03-28
+date: 20240328
 ---
 
 # 基础
@@ -723,7 +723,10 @@ Vue 模板中的表达式只能访问其定义时所处的作用域
 
 子组件向上传递 data： `<solt :text="mgs">`
 
-父组件：`<MyComponent v-solt="soltProps">{{ soltProps.text }}</MyComponent>`
+父组件：
+```vue
+<MyComponent v-solt="soltProps">{{ soltProps.text }}</MyComponent>
+```
 
 具名插槽
 
