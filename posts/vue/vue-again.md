@@ -1,6 +1,10 @@
 ---
 title: Vue Again
-date: 20240328
+date: 2024-03-28
+tags: [vue]
+categories: [Vue]
+---
+Vue 基础复习
 ---
 
 # 基础

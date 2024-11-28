@@ -2,11 +2,14 @@
   "name": "zhou-blog",
   "version": "0.0.1",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "vitepress": "^1.0.1"
+    "@types/node": "^22.10.0",
+    "unocss": "^0.64.1",
+    "vitepress": "^1.5.0",
+    "vue": "^3.5.13"
   }
 }

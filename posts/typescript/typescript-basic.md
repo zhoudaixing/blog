@@ -1,3 +1,12 @@
+---
+title: TypeScript 入门
+date: 2024-03-26
+tags: [typescript]
+categories: [typescript]
+---
+TypeScript 基础
+---
+
 # TypeScript
 
 `any` `unknown` `never`

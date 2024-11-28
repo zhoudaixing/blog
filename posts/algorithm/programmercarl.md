@@ -1,3 +1,12 @@
+---
+title: 代码随想录
+date: 2024-03-26
+tags: [algorithm]
+categories: [algorithm]
+---
+代码随想录习题总结
+---
+
 # 代码随想录
 
 ## Chapter 1 数组 Array *FINISH*
