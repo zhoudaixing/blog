@@ -5,6 +5,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Zhou Daixing",
   description: "Zhou's Blog",
+  base: '/blog/',
   cleanUrls: true,
   vite: {
     plugins: [
